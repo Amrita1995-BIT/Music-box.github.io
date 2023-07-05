@@ -60,6 +60,5 @@ To run this project,
 * Open the index.html file with the browser of your choice.
 
 (remotely)
-
-* Visit music-box-marshmallow-e4ed6a.netlify.app
+* Visit music-box-marshmallow-e4ed6a.netlify.app](https://music-box-marshmallow-e4ed6a.netlify.app/)https://music-box-marshmallow-e4ed6a.netlify.app/
 Thank you.
