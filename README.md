@@ -61,5 +61,5 @@ To run this project,
 
 (remotely)
 
-* Visit: https://github.com/Amrita1995-BIT/audio-project-Musicbox-main
+* Visit:
 Thank you.
