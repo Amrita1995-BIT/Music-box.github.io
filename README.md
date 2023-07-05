@@ -1,6 +1,6 @@
 # Project Overview
 
-<img width="1616" alt="3" src="https://user-images.githubusercontent.com/61092628/102725008-a8ae4480-42e1-11eb-89b9-b3784551c430.png">
+images.githubusercontent.com/61092628/102725008-a8ae4480-42e1-11eb-89b9-b3784551c430.png">
 
 1. Introduction
 
