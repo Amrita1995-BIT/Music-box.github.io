@@ -1,10 +1,7 @@
 # Project Overview
-
-images.githubusercontent.com/61092628/102725008-a8ae4480-42e1-11eb-89b9-b3784551c430.png">
-
 1. Introduction
 
-This is a final project which is a part of WDDM-113/114 of course 'Web Design & Development' at Humber College. The project titled 'Boombox' is aimed at providing the users with multiple functionalities in purview of the audio interactivity. The utilities included in this project include playing music, using voice recorder & playing various musical instruments, such as, piano & drum-kit.
+This is a final project for the MSCIT course 'Technical Writing and Entrepreneurship Development' at the PILLAI COLLEGE OF ARTS, COMMERCE, AND SCIENCE. The 'Musicbox' project aims to provide users with a variety of features related to audio interaction. This project's utilities include playing music, utilizing a voice recorder, and playing different musical instruments like as the piano and drum-kit.
 
 2. Technologies Used
 
@@ -22,22 +19,21 @@ This project is aimed at providing 3 core functionalities, which are as followin
 * Audio recording, playback & downloading options.
 * Playing musical instruments like piano & drumkit.
 
-=>  Music Playlist : This functionality provides user the utility to choose & play from a list of songs when he first arrives on the web page. Apart from that, there's a fixed music player at the page bottom, which facilitates the user to have audio controls throughout the page, such as, playing/pausing, stopping, muting/unmuting & playing previous/next song. 
+=>  Music Playlist : When a visitor initially visits a website, this capability allows him to select and play a music from a list. Aside from that, there is a fixed music player at the bottom of the page, which allows the user to have audio controls throughout the page, such as playing/pausing, stop, muting/unmuting, and playing previous/next song. 
 
-=>  Voice Recorder : This functionality enables the user to record his own vocals, stop it whenever he wants & playback whatever he has recorded. On top of that, the user has the ability to download his freshly recorded music as well, which can help him to save his recordings locally.
-
-=>  Musical Instruments : This functionality provides the user with an ability to choose from 2 musical instruments to play with, i.e, piano & drumkit. There is a 17 keys piano, that the user can enjoy playing on the click of his mouse. The drumkit, on the other hand, has the option to play with both mouse click as well as through the keyboard.
+=>  Voice Recorder : This feature allows the user to record his own vocals, pause them whenever he wants, and then play back anything he has recorded. Furthermore, the user can download his newly recorded music, which will allow him to preserve his recordings locally.
+=>  Musical Instruments : This feature allows the user to choose between two musical instruments to perform, namely the piano and the drumkit. The user may enjoy playing a 17-key piano with the click of his mouse. The drumkit, on the other hand, allows you to play using both the mouse and the keyboard.
 
 4. Extras
 
-Apart from the implementation of audio functionalities, the following points have been incorporated into the project as well -
+The following features have also been implemented into the project, in addition to the installation of audio functionalities:
 
-* Implementation of a sombre, visually interesting imagery into the project, that can capture the user interest immediately.
-* Addition of a few animations & .gif files which make the project feel more lively.
-* Implementation of event based styling such as, 'click' / 'hover', that can contribute to a better user experience.
-* The project has been implemented with basic responsiveness, such that, the user can access it from his tablet & mobile as well.
-* Usage of royalty-free music such that the project can steer clear of any copyright issues.
-* Implementation of click based scrolling has been done such that, on click on any section in Navbar, the page would be scrolled down to the appropriate section. Also, there's a button on bottom right side of the page, that can take the user to the top of page whenever it is clicked. This can help in enhancing the navigation experience of the user.
+* Implementing gloomy, visually appealing pictures into the project will help it grab the user's attention right away.
+*Adding a few animations and.gif files gives the project a more flexible environment.
+* implementation of event-based styles, such as "click" and "hover," which can improve the user experience.
+* The project has been developed with minimal responsiveness so that the user may access it from his personal tablet, or smartphone. & Computer as well.
+*The use of royalty-free music helps the project avoid copyright problems.
+* Implementation of click-based scrolling has been done such that, on clicking on any section in Navbar, the page would be scrolled down to the appropriate section. Also, there's a button on the bottom right side of the page, that can take the user to the top of the page whenever it is clicked. This can help in enhancing the navigation experience of the user.
 
 5. Performance
 
@@ -52,7 +48,7 @@ Here are the performance indicators after the project has been optimized -
 
 <img width="800" alt="Project performance after optimization" src="https://user-images.githubusercontent.com/61092628/102724689-4f451600-42df-11eb-8e17-a2e78b7dc655.png">
 
-As per the metrics, performance of the project jumped 27 points, which is evident from the reduced page loading time as well. For the performance test, Google Chrome's Lighthouse has been used in this project.
+As per the metrics, the performance of the project jumped 27 points, which is evident from the reduced page loading time as well. For the performance test, Google Chrome's Lighthouse has been used in this project.
 
 6. How to run the project?
 
@@ -61,10 +57,9 @@ To run this project,
 (locally)
 
 * cd into the project's root folder
-* Open index.html file with the browser of your choice.
+* Open the index.html file with the browser of your choice.
 
 (remotely)
 
-  
-
+* Visit: https://github.com/Amrita1995-BIT/audio-project-Musicbox-main
 Thank you.
